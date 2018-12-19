@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+        <url>
+            <loc>http://dimazosu.h1n.ru/index.html</loc>
+            <lastmod>2018-12-19</lastmod>
+        </url>
+        <url>
+            <loc>http://dimazosu.h1n.ru/snow.html</loc>
+            <lastmod>2018-12-19</lastmod>
+        </url>
+	<url>
+            <loc>http://dimazosu.h1n.ru/labs.html</loc>
+            <lastmod>2018-12-19</lastmod>
+        </url>
+	<url>
+            <loc>http://dimazosu.h1n.ru/sites.html</loc>
+            <lastmod>2018-12-19</lastmod>
+        </url>
+    </urlset>
